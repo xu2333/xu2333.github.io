@@ -5,11 +5,14 @@ permalink: /about/
 ---
 
 Hearthstone: Rank 641 in Legend level
+
 Diablo 3: Rank 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+TOEFL: Reading 26 + Listening 26 + Speaking 22 + Writing 28 = 102
+
+GRE:   Verbal 153 + Quantitive 170 + Analytical 3.0
 
 ### Contact me
 

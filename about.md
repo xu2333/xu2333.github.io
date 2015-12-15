@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hearthstone: Rank 641 in Legend level
+Diablo 3: Rank 
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zing@zju.edu.cn](mailto:zing@zju.edu.cn)

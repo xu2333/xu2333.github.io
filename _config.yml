@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/av
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:zing.xzc@gmail.com
+  email: zing.xzc@gmail.com
   facebook:
   flickr:
-  github:xu2333
+  github: xu2333
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "http://xu2333.github.io/"
 
 #
 # !! You don't need to change any of the configuration flags below !!

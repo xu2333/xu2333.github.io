@@ -18,7 +18,7 @@ Off-season -- Ranked 191th at 08/28/2015 using Witch Doctor
 
 Season 4 --  Ranked 300th at 09/29/2015 using Crusader
 
-* Sid Meiers Civilization 5
+* Sid Meier's Civilization 5
 
 Accumulated 570+ hours' game time, unlocked all 287 achievements on Steam
 

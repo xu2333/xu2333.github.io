@@ -20,7 +20,7 @@ Season 4 --  Ranked 300th at 09/29/2015 using Crusader
 
 * Sid Meiers Civilization 5
 
-Accumulated 570+ hours game time, unlocked all 287 achievements on Steam
+Accumulated 570+ hours' game time, unlocked all 287 achievements on Steam
 
 ### More Information
 

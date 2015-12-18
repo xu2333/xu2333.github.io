@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
+### Game Experiences
+
 Hearthstone: Achieved the rank of Legend 3 times (top 0.25% of ranked players)
 
-[<img src="{{ site.baseurl }}/images/hearthstone.png" style="width: 450px;"/>]
+<img src="{{ site.baseurl }}/images/hearthstone.png" style="width: 450px;"/>
 
-Diablo 3: Rank 
+Diablo 3: 
+
+Off-season -- Rank 191th at 08/28/2015 using Witch Doctor
+
+Season 4 --  Rank 300th at 09/29/2015 using Crusader
+
+Civilication 5:
+
+570+ hours cumulative game time, unlock all 287 achievements on Steam
 
 ### More Information
 

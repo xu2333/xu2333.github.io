@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hearthstone: Rank 641 in Legend level
+Hearthstone: Achieved the rank of Legend 3 times (top 0.25% of ranked players)
+
+[<img src="{{ site.baseurl }}/images/hearthstone.png" style="width: 450px;"/>]
 
 Diablo 3: Rank 
 

@@ -6,7 +6,7 @@ title: Ebola Network -- Mathematical Contest In Modeling
 Our goal is to establish a delivery system that optimizes the control and eradication of Ebola.
 
 This question was thrown by the Consortium for Mathematics and Its Application in the 2015 Mathematical Contest in Modeling.
-Faced with such inconceivable issue, our team chose complex networks theory to design a model. By the way, I were primarily responsible for mathematical analysis and programming.
+Facing with such inconceivable issue, our team chose complex networks theory to design a model. By the way, I were primarily responsible for mathematical analysis and programming.
 
 Firstly, we explored the spreading patterns among social contact networks. 
 
@@ -18,7 +18,7 @@ Secondly, we extended our model and enabled it to reflect geographical informati
 
 ![mcm_4.png]({{ site.baseurl }}/images/mcm_4.png)
 
-After calculated with respective parameters, we obtained the simulation curves. Following picture shown part of them.
+After calculating with respective parameters, we obtained the simulation curves. Following pictures shown part of them.
 
 ![mcm_5.png]({{ site.baseurl }}/images/mcm_5.png)
 

@@ -11,7 +11,7 @@ Since our group of two directly used the screenshots as cards, there are no need
 Our Apache server was located on my computer, supporting register, log-in, ranking list and card appreciation.
 The communications were implemented through Web Socket. All the data were stored in MySQL.
 
-Following pictures shown the functions of our system.
+Following pictures show the functions of our system.
 
 ![hs_1.jpg]({{ site.baseurl }}/images/hs_1.jpg)
 

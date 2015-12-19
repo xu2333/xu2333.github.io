@@ -17,13 +17,13 @@ Following pictures show the functions of our system.
 
 ![hs_2.jpg]({{ site.baseurl }}/images/hs_2.jpg)
 
-The card appreciation module helped new comers to know different cards.
+The card appreciation module helped new comers know different cards.
 
 ![hs_3.jpg]({{ site.baseurl }}/images/hs_3.jpg)
 
 ![hs_4.jpg]({{ site.baseurl }}/images/hs_4.jpg)
 
-Ranking list were counted by Crystal, which was the same with points in standings.
+Ranking list was counted by Crystal, which was the same with points in standings.
 
 ![hs_5.jpg]({{ site.baseurl }}/images/hs_5.jpg)
 

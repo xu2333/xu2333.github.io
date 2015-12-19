@@ -16,7 +16,7 @@ Although it only contained a few simple cases, I did initial numerical design ba
 During our games in 3-8 players, I was queried too many times to remember. Sometimes I could not answer to their questions and had to make up an explanation to keep the game going. 
 But I got not only essential data for further improvement but also the great joy to play a self-designed game.
 
-Finally, we finished the [Player's Handbook](https://raw.githubusercontent.com/xu2333/xu2333.github.io/master/pdf/under_the_lake.pdf) (in Chinese).
+Finally, we finished the [**Player's Handbook**](https://raw.githubusercontent.com/xu2333/xu2333.github.io/master/pdf/under_the_lake.pdf) (in Chinese).
 
 ![under_the_lake.jpg]({{ site.baseurl }}/images/under_the_lake.jpg)
 

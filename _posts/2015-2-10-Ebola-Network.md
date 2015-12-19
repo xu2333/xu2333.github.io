@@ -26,7 +26,7 @@ Thirdly, we proposed optimal delivery scenario based on our extended model.
 
 ![mcm_3.png]({{ site.baseurl }}/images/mcm_3.png)
 
-Finally, we analyzed all the simulation results and proposed an dynamic programming solution indicating the exact quantity of needed medicines for each district.
+Finally, we analyzed all the simulation results and proposed an dynamic programming solution indicating the exact quantity of needed medicine for each district.
 
 Our [**Report**](https://raw.githubusercontent.com/xu2333/xu2333.github.io/master/pdf/MCM.pdf) (in English) was designated as Meritorious Winner, top 9% among 7636 participants.
 

@@ -3,10 +3,10 @@ layout: post
 title: Web Hearthstone -- Browser/Server Game Design
 ---
 
-To be honest, if Hearthstone was a web game, it would definitely attract more players for convenience.
+To be honest, if Hearthstone was a web game, it would definitely attract more players because of convenience.
 
 During my course of Browser/Server Architecture Software Design, I came up with this idea in a sudden moment.
-Since our group of two directly used the screenshots as cards, there are no need for art designer. We both became programmer.
+Since our group of two directly used the screenshots as cards, there is no need for art designer. We both became programmers.
 
 Our Apache server was located on my computer, supporting register, log-in, ranking list and card appreciation.
 The communications were implemented through Web Socket. All the data were stored in MySQL.

@@ -30,7 +30,7 @@ Reading 26 + Listening 26 + Speaking 22 + Writing 28 = 102
 
 * GRE 
 
-Verbal 153 + Quantitive 170 + Analytical 3.0
+Verbal 153 + Quantitative 170 + Analytical 3.0
 
 ### Contact me
 

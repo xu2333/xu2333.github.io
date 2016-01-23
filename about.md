@@ -24,13 +24,15 @@ Accumulated 570+ hours' game time, unlocked all 287 achievements on Steam
 
 ### More Information
 
-* TOEFL 
+* First-Class(9/198) Scholarship from ZJU												2014 - 2015
 
-Reading 26 + Listening 26 + Speaking 22 + Writing 28 = 102
+* First-Class Research and Innovation Scholarship from ZJU								2014 - 2015
 
-* GRE 
+* Second Prize(13/127) of ACM Collegiate Programming Contest of Zhejiang University		2015
 
-Verbal 153 + Quantitative 170 + Analytical 3.0
+* Meritorious Winner(top 9%/7636) of Mathematical Contest In Modeling from COMAP		2015
+
+* First Prize(23/4576) of National Olympiad in Information in Hunan Province			2011
 
 ### Contact me
 

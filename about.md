@@ -24,15 +24,15 @@ Accumulated 570+ hours' game time, unlocked all 287 achievements on Steam
 
 ### More Information
 
-* First-Class(9/198) Scholarship from ZJU                                            2014 - 2015
+* First-Class(9/198) Scholarship from ZJU
 
-* First-Class Research and Innovation Scholarship from ZJU                           2014 - 2015
+* First-Class Research and Innovation Scholarship from ZJU
 
-* Second Prize(13/127) of ACM Collegiate Programming Contest of Zhejiang University  2015
+* Second Prize(13/127) of ACM Collegiate Programming Contest of Zhejiang University
 
-* Meritorious Winner(top 9%/7636) of Mathematical Contest In Modeling from COMAP     2015
+* Meritorious Winner(top 9%/7636) of Mathematical Contest In Modeling from COMAP
 
-* First Prize(23/4576) of National Olympiad in Information in Hunan Province         2011
+* First Prize(23/4576) of National Olympiad in Information in Hunan Province
 
 ### Contact me
 

@@ -38,4 +38,4 @@ Accumulated 470+ hours' game time, unlocked all 287 achievements on Steam
 
 ### Contact me
 
-[zing@zju.edu.cn](mailto:zing@zju.edu.cn)
+[zicheng.xu@columbia.edu](mailto:zicheng.xu@columbia.edu)

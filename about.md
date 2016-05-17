@@ -6,6 +6,12 @@ permalink: /about/
 
 ### Game Experiences
 
+* Clash Royale
+
+Reached Arena 8(Legendary Arena) with a skillful deck
+
+<img src="{{ site.baseurl }}/images/cr_legend.png" style="width: 600px;"/>
+
 * Hearthstone 
 
 Achieved the rank of Legend 3 times (top 0.25% of ranked players)

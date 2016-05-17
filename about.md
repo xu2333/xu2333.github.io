@@ -10,7 +10,7 @@ permalink: /about/
 
 Reached Arena 8(Legendary Arena) with a skillful deck
 
-<img src="{{ site.baseurl }}/images/cr_legend.png" style="width: 527px;"/>
+<img src="{{ site.baseurl }}/images/cr_legend.jpg" style="width: 527px;"/>
 
 * Hearthstone 
 
